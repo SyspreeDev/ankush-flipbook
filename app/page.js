@@ -18,10 +18,11 @@ const Page = () => {
   return (
     <div>
       {/* Elfsight Flipbook Widget */}
-      <div
+      {/* <div
         className="elfsight-app-a6a135d9-eca0-483b-aaf7-1e900a42c412"
         data-elfsight-app-lazy
-      ></div>
+      ></div> */}
+      <div className="elfsight-app-a6a135d9-eca0-483b-aaf7-1e900a42c412" data-elfsight-app-lazy></div>
     </div>
   );
 };
